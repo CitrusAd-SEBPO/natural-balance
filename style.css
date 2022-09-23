@@ -89,6 +89,7 @@ body {
 
 .splide__slide img {
   vertical-align: bottom;
+  min-height: 100px;
 }
 
 .splide__track {
