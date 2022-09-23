@@ -638,6 +638,7 @@ Responsive styles
   }
   .citrusNatural__BannerText p {
     font-weight: 400;
+    padding: 0 40px;
   }
   .citrusNatural__bannerCTA button,
   .citrusNatural__footerCTA button {
